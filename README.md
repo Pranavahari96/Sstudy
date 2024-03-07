@@ -1,2 +1,2 @@
-# Sstudy
+# Study
 practice
