@@ -1,2 +1,2 @@
 # Study
-practice
+Learn and practice
